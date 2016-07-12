@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperMarket_Delete_Update</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Type_txt">Item Type</string>
+    <string name="Quantityt_txt">Item Quantity</string>
+    <string name="Price_txt">Item Price</string>
+    <string name="add_btn">Add Item</string>
+    <string name="view_btn">View Data</string>
+    <string name="Delete_btn">Delete</string>
+    <string name="Update_txt">New Item Type</string>
+    <string name="Update_info_txt">To Update put Old Item type in \"Item type\" Text::</string>
+    <string name="Update_btn">Update Item Type</string>
+
+</resources>
